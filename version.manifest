@@ -2,9 +2,9 @@
 	"packageUrl" : "https://raw.githubusercontent.com/atljm/hotupdatetest/master/",
 	"remoteManifestUrl": "https://raw.githubusercontent.com/atljm/hotupdatetest/master/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/atljm/hotupdatetest/master/version.manifest",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
 	"groupVersions":{
-		"1" : "1.0.1"
+		"1" : "1.0.2"
 	},
 	"engineVersion" : "3.10"
 }
